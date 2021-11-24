@@ -1,0 +1,2 @@
+# Aptihub
+AptiHub, an android application, can remove the existing flaws in the manual system of conducting exams. Students can give exams and view their results. Purpose of Online Aptitude Test Application fulfills the requirements of the institutes to organize the exams virtually. Instead of going to a separate site for being able to conduct exams online, the recruiters or any faculty member can use our app to do so and students can also take help of our app for practicing aptitude question as our app is convenient and user-friendly.
