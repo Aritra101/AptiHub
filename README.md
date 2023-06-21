@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-AptiHub is an Android application developed in Java that aims to revolutionize the process of conducting exams by eliminating the flaws of the manual system. It provides a convenient and user-friendly platform for students to take online aptitude tests and view their results.
+AptiHub is an Android application developed using Java that aims to revolutionize the process of conducting exams by eliminating the flaws of the manual system. It provides a convenient and user-friendly platform for students to take online aptitude tests and view their results.
 
 ## Features
 
