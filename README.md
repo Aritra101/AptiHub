@@ -16,7 +16,7 @@ AptiHub is an Android application developed in Java that aims to revolutionize t
 
 To get started with AptiHub, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/aptihub.git`
+1. Clone the repository: `git clone https://github.com/Aritra101/aptihub.git`
 2. Open the project in Android Studio.
 3. Build and run the application on an Android device or emulator.
 
